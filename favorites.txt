@@ -13,3 +13,7 @@ Pizza
 Lazanya
 Falafel
 Somon
+
+Adana Dürüm
+Hamburger
+Waffle
