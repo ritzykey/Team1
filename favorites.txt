@@ -1,3 +1,4 @@
+Favorite Foods:
 Kayseri yağlaması
 Bursa iskender
 Kumpir
@@ -17,3 +18,34 @@ Somon
 Adana Dürüm
 Hamburger
 Waffle
+
+Favorite Movies:
+Scarface
+Catch Me If You Can
+The Wolf of Wall Street
+The Prestige
+Fight Club
+
+The GodFather
+Batman The Dark Knigt
+The Lord of the rings
+Prestij
+Dune
+
+Spiderman No Way Home
+Harry Potter Goblet of Fire
+Rocky
+Forrest Gump
+Truman Show
+
+Joker
+Star Wars
+Inception
+Interstellar
+Memento
+
+Troy
+The Raid
+Forrest Gump
+Matrix
+Whiplash
